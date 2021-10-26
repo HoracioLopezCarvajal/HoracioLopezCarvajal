@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-### Hi there 👋
 **Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/iamvucms?tab=repositories) represent my journey :running_man: - From **being curious** with *PHP* to *Laravel* and Now I'm focusing to React Native and fall in love width React Native along with interesting animation, beautiful UI,.. so I decided to spend a lot of time on learning React, React Native and Typescript. And now you can see my results below ^^.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iamvucms&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -37,5 +34,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 -->
