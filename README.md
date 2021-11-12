@@ -1,7 +1,7 @@
 ### Hi there 👋
 **Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/HoracioLopezCarvajal?tab=repositories) represent my journey :running_man: - From **being curious** with *PHP* to *Laravel* and Now I'm focusing to React Native and fall in love width React Native along with interesting animation, beautiful UI,.. so I decided to spend a lot of time on learning React, React Native and Typescript. And now you can see my results below ^^.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HoracioLopezCarvajal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HoracioLopezCarvajal&show_icons=true&theme=tokyonight)](https://github.com/HoracioLopezCarvajal/github-readme-stats)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/HoracioLopezCarvajal) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=HoracioLopezCarvajal.visitor-badge)](https://github.com/HoracioLopezCarvajal) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HoracioLopezCarvajal)
 
@@ -20,7 +20,7 @@ Currently I'm **contributing and owner** following projects:
 - 👯 I’m looking to collaborate on Javascript
 - 🤔 I’m looking for help with Math, React Native Animation
 - 💬 Ask me about React, React Native, Javascript
-- 📫 How to reach me: [**Facebook**](https://www.facebook.com/DevV.systems)
+- 📫 How to reach me: [**Facebook**](https://www.facebook.com/horacio.lopezcarvajal.5/)
 - ⚡ Fun fact: Nothing be limit, limit in your thoughts
 <!-- - 😄 Pronouns: ... -->
 <!--
